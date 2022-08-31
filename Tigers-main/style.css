@@ -1,0 +1,22 @@
+.half-width{
+    width: 90%;
+    margin-top: 10%;
+  }
+  .title-text{
+      color: #FF6263;
+      font-size: 3em;
+  }
+  .side-part{
+      background-color: #62ff96;
+      border-radius: 20px;
+      padding-top: 30px;
+  }
+
+  input{
+    border-radius: 6px;
+    border: none;
+  }
+
+  .lal{
+    color: red;
+  }
